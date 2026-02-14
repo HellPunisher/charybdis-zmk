@@ -1,7 +1,7 @@
 include:
-  - board: nrfmicro@1.3.0/nrf52840
+  - board: nrfmicro_13
     shield: charybdis_left
-  - board: nrfmicro@1.3.0/nrf52840
+  - board: nrfmicro_13
     shield: charybdis_right
-  - board: nrfmicro@1.3.0/nrf52840
+  - board: nrfmicro_13
     shield: settings_reset
